@@ -11,6 +11,6 @@ src/
 /testindex.js
 /index.js
 /tests.js
-token.env
+TOKEN.env
 .replit
 replit.nix
