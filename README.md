@@ -16,7 +16,7 @@ made by HyTera Development
 
 [hytera-development-server]: https://img.shields.io/discord/773352845738115102?color=5865F2&logo=discord&logoColor=white
 [hytera-development-server-url]: https://discord.gg/GZQrhyjfXe
-[add-minesweeper]: https://img.shields.io/badge/THEMR-website-green](https://img.shields.io/badge/Add-minesweeper-blue
+[add-minesweeper]:https://img.shields.io/badge/Add-minesweeper-blue
 [bot-add-url]: https://discord.com/api/oauth2/authorize?client_id=1018565927580729506&permissions=2493967625409&scope=bot%20applications.commands
     
 </div>
