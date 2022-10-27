@@ -1,0 +1,15 @@
+# folders
+
+node_modules/
+database/
+hytescript/
+src/
+.vscode/
+
+# files
+
+/testindex.js
+/index.js
+/tests.js
+.replit
+replit.nix
